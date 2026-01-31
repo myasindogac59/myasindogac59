@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammed Yasin</h1>
 <h3 align="center">A passionate Jr. Devops Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Mİcrosoft Azure**
+- 🌱 I’m currently learning **Microsoft Azure**
 
 - How to reach me?📫 **yasindogac@gmail.com**
 
